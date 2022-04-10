@@ -8,11 +8,11 @@
         <version>2.5.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.codecademy</groupId>
+    <groupId>com.mySpringProject</groupId>
     <artifactId>diningreviews</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>diningreviews</name>
-    <description>RESTful APIs for dining reviews application</description>
+    <name>restaurantReview</name>
+    <description>RESTful APIs for restaurant reviews application</description>
     <properties>
         <java.version>11</java.version>
     </properties>
