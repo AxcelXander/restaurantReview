@@ -1,14 +1,14 @@
 package com.mySpringProject.restaurantReview;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+        import org.springframework.boot.SpringApplication;
+        import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DiningReviewsApplication {
+public class restaurantReviewApplication {
 
     public static void main(String[] args) {
 
-        SpringApplication.run(DiningReviewsApplication.class, args);
+        SpringApplication.run(restaurantReviewApplication.class, args);
     }
 
 }
